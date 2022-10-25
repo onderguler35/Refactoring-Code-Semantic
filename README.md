@@ -8,6 +8,7 @@ This will also help the websites search engine ranking in a positive way.
 
 
 ## Usage 
+https://onderguler35.github.io/Challenge/#social-media-marketing
 
 The website now can be used with the accessiblity tools.
 I have tested the website for accesibility requirements and it passed with 0 errors.
@@ -18,7 +19,9 @@ I have tested the website for accesibility requirements and it passed with 0 err
 ## Credits
 
 Designing for accessibility is not that hard
+
 Pablo Stanley
+
 https://uxdesign.cc/designing-for-accessibility-is-not-that-hard-c04cc4779d94
 
 
