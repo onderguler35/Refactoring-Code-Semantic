@@ -8,7 +8,7 @@ This will also help the websites search engine ranking in a positive way.
 
 
 ## Usage 
-https://onderguler35.github.io/Challenge/#social-media-marketing
+https://onderguler35.github.io/Challenge/
 
 The website now can be used with the accessiblity tools.
 I have tested the website for accesibility requirements and it passed with 0 errors.
